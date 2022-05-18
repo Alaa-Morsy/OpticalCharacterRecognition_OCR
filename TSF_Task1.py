@@ -7,7 +7,6 @@
 ################################################################
 
 # import the necessary packages
-from ctypes import sizeof
 import numpy as np
 import argparse
 import cv2
