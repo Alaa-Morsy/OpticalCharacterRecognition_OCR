@@ -1,5 +1,5 @@
 # OpticalCharacterRecognition_OCR
-An Optical character recognition is a character detector with extracts text from an image
+An Optical character recognition is a character detector which extracts text from an image
 
 - Date: 18 May 2022 Version : V.1
 - Languge : Python -> I used python3.10.4
